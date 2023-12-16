@@ -1,0 +1,16 @@
+.col-md-3 {
+    
+    margin: 20px;
+}
+.fa{
+    color: red;
+    size-adjust: 10px;
+    font-size: smaller;
+    /* position: absolute;
+    top: -8px; */
+    
+}
+.fa-2x{
+    color:rgb(226, 180, 28);
+    
+}
